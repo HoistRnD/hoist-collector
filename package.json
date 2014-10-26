@@ -33,6 +33,7 @@
   },
   "dependencies": {
     "bluebird": "^2.3.6",
+    "broker": "git://github.com/hoist/broker",
     "config": "^1.6.0",
     "keen.io": "^0.1.2"
   }

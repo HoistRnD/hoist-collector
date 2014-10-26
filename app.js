@@ -1,5 +1,5 @@
 'use strict';
-console.log('nothing here yet');
+
 var EventBroker = require('broker/lib/event_broker');
 var EventLogEvent = require('./lib/events/step_log_event');
 EventBroker.listen(EventLogEvent).then(function(){
