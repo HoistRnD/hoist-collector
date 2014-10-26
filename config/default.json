@@ -1,0 +1,7 @@
+{
+  "Hoist": {
+    "application": {
+      "name": "executor"
+    }
+  }
+}

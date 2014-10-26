@@ -30,5 +30,10 @@
     "run-sequence": "^0.3.6",
     "sinon": "^1.10.3",
     "sinon-chai": "^2.5.0"
+  },
+  "dependencies": {
+    "bluebird": "^2.3.6",
+    "config": "^1.6.0",
+    "keen.io": "^0.1.2"
   }
 }
